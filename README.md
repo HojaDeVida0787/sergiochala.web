@@ -219,7 +219,7 @@
             <div class="header-text">
                 <h1>SERGIO CHALA</h1>
                 <p><strong>NUIP 1.006.506.890</strong></p>
-                <p><strong>BACHIYER - Desarrollador Web & Estratega de Marketing Digital</strong></p>
+                <p><strong>BACHILLER - Desarrollador Web & Estratega de Marketing Digital</strong></p>
                 <div class="contact-info">
                     
                     <span>📞 +57 318 988 2787</span>
