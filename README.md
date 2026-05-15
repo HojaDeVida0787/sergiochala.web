@@ -33,7 +33,7 @@
         .app-container {
             max-width: 500px;
             margin: 0 auto;
-            background: white;
+            background: white;                                                                                     
             min-height: 100vh;
             box-shadow: 0 10px 25px rgba(0,0,0,0.05);
         }
@@ -219,7 +219,7 @@
             <div class="header-text">
                 <h1>SERGIO CHALA</h1>
                 <p><strong>NUIP 1.006.506.890</strong></p>
-                <p><strong>BACHILLER - Desarrollador Web & Estratega de Marketing Digital</strong></p>
+                <p><strong>BACHIYER - Desarrollador Web & Estratega de Marketing Digital</strong></p>
                 <div class="contact-info">
                     
                     <span>📞 +57 318 988 2787</span>
@@ -241,7 +241,7 @@
             <h3>Auxiliar Eléctrico - Smartool Company</h3>
             <span class="date">Enero 2026 – Abril 2026</span>
             <p class="desc">Apoyo en excavaciones para acometidas, instalaciones eléctricas y transporte de materiales.</p>
-            <section id="certificados"><a href="https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/696378892_122097731517318735_7224973262598116403_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mIAB6YRv838Q7kNvwFSm5qX&_nc_oc=Adphk6iEQAajuqw8BH7oSV9oVhV08kSk1yxVi3BZhc5nzR81v_9dU2ZxlvIe3gcyedQ&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=bjAWydcGNr6-t5bCqjcUHg&_nc_ss=7e2a8&oh=00_Af4A48EoN9dyc0TInA7gXVO4jbA5k3cWSloT3taIPCpI0g&oe=6A0A60E2" class="cert-link" onclick="alert('Abriendo certificado: Smartool Company')">📄 Certificado Smartool</a></section>
+            <section id="certificados"><a href="https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/696378892_122097731517318735_7224973262598116403_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mIAB6YRv838Q7kNvwFSm5qX&_nc_oc=Adphk6iEQAajuqw8BH7oSV9oVhV08kSk1yxVi3BZhc5nzR81v_9dU2ZxlvIe3gcyedQ&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=bjAWydcGNr6-t5bCqjcUHg&_nc_ss=7e2a8&oh=00_Af4A48EoN9dyc0TInA7gXVO4jbA5k3cWSloT3taIPCpI0g&oe=6A0A60E2" class="cert-link" onclick="alert('Abriendo certificado: Smartool Company')">📄 Ver Abrir Certificado Smartool</a></section>
             
         </div>
 
@@ -250,14 +250,14 @@
             <h3>Auxiliar Eléctrico - Smartool Company</h3>
             <span class="date">Septiembre 2025 – Diciembre 2025</span>
             <p class="desc">Apoyo en excavaciones para acometidas, instalaciones eléctricas y transporte de materiales.</p>
-            <section id="certificados"><a href="https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/696900937_122097732015318735_2368577302475113626_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=VcB1Cd8Ek94Q7kNvwH0IdY0&_nc_oc=AdrrVbludgORyGJZ-99l1hIo7koKDcqLdPhVOfgH0Pq0VeJB-6izgNNqNKv6_ts-LaE&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=kgoVwbJH07H7fnzaTbICyg&_nc_ss=7e2a8&oh=00_Af7o5RXjP2RpWACw_3lhPCIA743VBXxfPYfl7U8AZvkFkg&oe=6A0A754A" class="cert-link" onclick="alert('Abriendo certificado: Smartool Company')">📄 Certificado Smartool</a></section>
+            <section id="certificados"><a href="https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/696900937_122097732015318735_2368577302475113626_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=VcB1Cd8Ek94Q7kNvwH0IdY0&_nc_oc=AdrrVbludgORyGJZ-99l1hIo7koKDcqLdPhVOfgH0Pq0VeJB-6izgNNqNKv6_ts-LaE&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=kgoVwbJH07H7fnzaTbICyg&_nc_ss=7e2a8&oh=00_Af7o5RXjP2RpWACw_3lhPCIA743VBXxfPYfl7U8AZvkFkg&oe=6A0A754A" class="cert-link" onclick="alert('Abriendo certificado: Smartool Company')">📄 Ver Abrir Certificado Smartool</a></section>
         </div>
 
         <div class="card">
             <h3>Brigadista Brigrada - Nases</h3>
             <span class="date">Enero 2025  – Febrero 2025</span>
             <p class="desc">Apoyo en ventas tienda a tienda, Region Huila</p>
-            <section id="certificados"><a href="https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/697244849_122097734115318735_4491043880404710420_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zOamvPdYMacQ7kNvwE7edjZ&_nc_oc=AdqfOODm8DANg2NXEU7_Ml7yQ_XiBHrKsAvQb-fMpzAA3bRq7hEYNqe34gPsZZvzCXo&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=K2Xk6HTOMuUVKKMGh6HPnQ&_nc_ss=7e2a8&oh=00_Af6QwYkRU3S3L0_SL1Q12EoJ4ZWp1nyWm8BS6jCtwx8OwQ&oe=6A0A549C" class="cert-link" onclick="alert('Abriendo certificado: Nases')">📄 Certificado Nases</a></section>
+            <section id="certificados"><a href="https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/697244849_122097734115318735_4491043880404710420_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zOamvPdYMacQ7kNvwE7edjZ&_nc_oc=AdqfOODm8DANg2NXEU7_Ml7yQ_XiBHrKsAvQb-fMpzAA3bRq7hEYNqe34gPsZZvzCXo&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=K2Xk6HTOMuUVKKMGh6HPnQ&_nc_ss=7e2a8&oh=00_Af6QwYkRU3S3L0_SL1Q12EoJ4ZWp1nyWm8BS6jCtwx8OwQ&oe=6A0A549C" class="cert-link" onclick="alert('Abriendo certificado: Nases')">📄 Ver Abrir Certificado Nases</a></section>
 
         </div>
 
@@ -265,7 +265,7 @@
             <h3>Asesor Comercial - Hogarama</h3>
             <span class="date">Abril 2024 – Diciembre 2024</span>
             <p class="desc">Asesorar a clientes, identificar oportunidades de venta y mantener relaciones sólidas para aumentar las ventas y fidelizar clientes.</p>
-            <section id="certificados"><a href="https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/695838073_122097734283318735_9053260773741159703_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=TcFeyq-LMuAQ7kNvwGb2kyT&_nc_oc=AdombfC2hh3x_IKajZXCnLIAc99xoO9KYEzxolXvk5I2RT_iUelJ1_hXvoKiTY9p6Ic&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=yYvxzq4RG67SxrPuhs2-9A&_nc_ss=7e2a8&oh=00_Af4sw0vr8_4bct5geLKE8DCKddzGIgxEqqjvVirdZjh1uw&oe=6A0A54FB" class="cert-link" onclick="alert('Abriendo certificado: Hogarama')">📄 Certificado Hogarama</a></section>
+            <section id="certificados"><a href="https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/695838073_122097734283318735_9053260773741159703_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=TcFeyq-LMuAQ7kNvwGb2kyT&_nc_oc=AdombfC2hh3x_IKajZXCnLIAc99xoO9KYEzxolXvk5I2RT_iUelJ1_hXvoKiTY9p6Ic&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=yYvxzq4RG67SxrPuhs2-9A&_nc_ss=7e2a8&oh=00_Af4sw0vr8_4bct5geLKE8DCKddzGIgxEqqjvVirdZjh1uw&oe=6A0A54FB" class="cert-link" onclick="alert('Abriendo certificado: Hogarama')">📄 Ver Certificado Hogarama</a></section>
 
         </div>
 
@@ -273,7 +273,7 @@
             <h3>Asesor Comercial - Corálpa</h3>
             <span class="date">Noviembre 2023 – Febrero 2024</span>
             <p class="desc">Asesorar a clientes, identificar oportunidades de venta y mantener relaciones sólidas para aumentar las ventas y fidelizar clientes.</p>
-            <section id="certificados"><a href="https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/696269624_122097734451318735_2635281416765457152_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lNfckOebgEAQ7kNvwFe_Vva&_nc_oc=Adp-PoPm2pctA2WPeaXaBF0sxyARyLTsuiRIaNlnxpJ7sPql2IKw2bUg-Kfcgw0s5L0&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=vBmlec95AhmRmqrMUZfQTw&_nc_ss=7e2a8&oh=00_Af5vx9QwuV5ZuTrjsiXt7za9guKmjJUt-LBBqlCmLdLruQ&oe=6A0A74B8" class="cert-link" onclick="alert('Abriendo certificado: Corálpa')">📄 Certificado Corálpa</a></section>
+            <section id="certificados"><a href="https://scontent.fnva2-1.fna.fbcdn.net/v/t39.30808-6/696269624_122097734451318735_2635281416765457152_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lNfckOebgEAQ7kNvwFe_Vva&_nc_oc=Adp-PoPm2pctA2WPeaXaBF0sxyARyLTsuiRIaNlnxpJ7sPql2IKw2bUg-Kfcgw0s5L0&_nc_zt=23&_nc_ht=scontent.fnva2-1.fna&_nc_gid=vBmlec95AhmRmqrMUZfQTw&_nc_ss=7e2a8&oh=00_Af5vx9QwuV5ZuTrjsiXt7za9guKmjJUt-LBBqlCmLdLruQ&oe=6A0A74B8" class="cert-link" onclick="alert('Abriendo certificado: Corálpa')">📄 Ver Certificado Corálpa</a></section>
 
         </div>
     </section>
