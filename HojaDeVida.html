@@ -31,7 +31,12 @@
 
         /* Contenedor Principal */
         .app-container {
-            max-width: 500px;
+
+             max-width: 800px; /* Ancho máximo en PC */
+             width: 100%;      /* Ocupa todo en móviles */
+
+
+            
             margin: 0 auto;
             background: white;                                                                                     
             min-height: 100vh;
